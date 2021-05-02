@@ -1,0 +1,23 @@
+a.
+The issue with the data set appears to be abnormally high unit costs as well as abnormally high orders from some shops
+
+
+b. What metric will you use?
+One metric I can use is the average order value, after excluding all the “erroneous” data
+This gives a more accurate depiction of the Average order value from the customers.
+
+Another Metric that can be used is the modal value of the order amount, assuming that the data in the system is correct.
+This value also happens to be the same regardless of the data, in this case, it works because the outliers
+are not the majority
+
+
+c. What is it’s value?
+
+This new AOV (with the corrected data set) will be:
+303.0 (rounded up to the nearest whole number)
+
+If we stuck with the original data, the modal value will be:
+153.0
+
+
+With these values, it gives a fair idea of the shops growth

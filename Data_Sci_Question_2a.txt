@@ -1,0 +1,16 @@
+/*
+2.
+a
+Answer:
+*/
+Select Sum (Quantity), Shippers.ShipperName
+from OrderDetails
+
+Join Orders
+ON Orders.OrderID = OrderDetails.OrderID
+
+JOIN Shippers
+ON Shippers.ShipperID = Orders.ShipperID
+where Shippers.Shippername = 'Speedy Express'
+
+/*Speedy Express Total: 3575*/

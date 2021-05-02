@@ -1,0 +1,21 @@
+/*
+2
+c
+ANSWER:
+*/
+Select Orders.CustomerID, MAX(OrderDetails.Quantity), Customers.Country, Products.ProductName
+
+From Orders
+
+JOIN Customers
+ON Orders.CustomerID = Customers.CustomerID
+
+JOIN OrderDetails
+ON Orders.OrderID = OrderDetails.OrderID
+
+JOIN Products
+ON Products.ProductID = OrderDetails.ProductID
+
+where Country like 'Germany'
+
+/* Product ordered the most in Germany: Steeleye Stout */
