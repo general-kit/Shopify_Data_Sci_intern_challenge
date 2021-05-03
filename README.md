@@ -13,3 +13,5 @@ The files: Data_Sci_Question_2a.txt, Data_Sci_Question_2b.txt, Data_Sci_Question
 Contains the answers to question 2 a, b and c respectively
 The contents of these files can be individually copied and pasted in the w3schools url below for verification of each question:
 https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL
+
+If any issues are found with the code, kindly contact me using the contact information in my application.
