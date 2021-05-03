@@ -6,7 +6,7 @@ The contents of this repository, are intended to be used only for reference to a
 The  file: Data_Sci_Question_1.:
 This file can be run as is for verification and contains the notes and reasoning behind the answer posted for questions 1a - 1c.
 The answers for questions 1a - 1c are in the files:
-Data_Sci_Question_1.txt
+Data_Sci_Question_1_Analysis.txt
 
 The files: Data_Sci_Question_2a.txt, Data_Sci_Question_2b.txt, Data_Sci_Question_2c.txt
 Contains the answers to question 2 a, b and c respectively
