@@ -14,4 +14,7 @@ Contains the answers to question 2 a, b and c respectively
 The contents of these files can be individually copied and pasted in the w3schools url below for verification of each question:
 https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL
 
+
+NOTE: There are also pdf versions of the jupyter code, and answers to Questions 1 and 2.
+
 If any issues are found with the code, kindly contact me using the contact information in my application.
