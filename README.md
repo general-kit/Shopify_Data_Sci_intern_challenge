@@ -1,5 +1,5 @@
 # Shopify_Data_Science_intern_Challenge
-Repository for intern interview code
+Repository for the Fall 2021 Data Science intern challenge code
 The contents of this repository, are intended to be used only for reference to answer the questions posted on the 2021 Shipify Data Science Challenge, in the link below:
 
 Question 1:
